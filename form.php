@@ -3,7 +3,7 @@
 <table align='center'>
 	<tr>
 		<td>Name:</td>
-		<td><input type='text' name='body' size='40' length='100' value='first name'></td>
+		<td><input type='text' name='name' size='40' length='100' value='first name'></td>
 	</tr>
 	<tr>
 		<td>Start Date:</td>
